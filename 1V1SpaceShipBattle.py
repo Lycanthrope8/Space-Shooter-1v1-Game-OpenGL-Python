@@ -14,7 +14,7 @@ top_spaceship_y = 750
 
 # Bullet properties
 bullet_radius = 5
-bullet_speed = 5
+bullet_speed = 20
 bullet_cooldown = 10
 bottom_bullet_cooldown = 0
 top_bullet_cooldown = 0
